@@ -1,0 +1,7 @@
+{
+  "title": "RRGEF: relative reliability-guided evidential fusion for robust multi-omics survival prediction",
+  "description": "Source code accompanying the manuscript \"RRGEF: relative reliability-guided evidential fusion for robust multi-omics survival prediction\" (submitted to Bioinformatics). RRGEF is an evidential survival model that separates input reliability from prognostic evidence: reconstruction deviations, calibrated within training folds and compared across each patient's available modalities, determine how much each omics modality's evidence contributes to a Cox-trained risk score.",
+  "upload_type": "software",
+  "license": "MIT",
+  "keywords": ["multi-omics", "survival analysis", "evidential deep learning", "reliability", "TCGA", "robust fusion"]
+}
